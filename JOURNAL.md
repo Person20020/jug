@@ -116,4 +116,8 @@ I added my logo + text to show which side to solder the jumpers for the mcu. I a
 
 ![reversible rp2040 zero footprint](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8ab68bc7371f2f2122046717d7462f960bb29a2d_image.png)
 
+I then had to re route the pcb after swapping out the footprint.
+
+
+
 I also worked on the firmware and finished the keyboard.json and added the indicators for which layer you are in.
