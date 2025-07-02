@@ -1,4 +1,4 @@
-27333807995750608
+27335559424969733
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99077,6 +99077,13 @@ RP2040_Zero_Flipped
 0
 23
 23
+ScottoKeebs_MCU
+RP2040_Zero_Reversible
+
+
+0
+109
+37
 ScottoKeebs_MCU
 Raspberry_Pi_Pico
 
