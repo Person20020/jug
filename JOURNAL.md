@@ -116,8 +116,10 @@ I added my logo + text to show which side to solder the jumpers for the mcu. I a
 
 ![reversible rp2040 zero footprint](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8ab68bc7371f2f2122046717d7462f960bb29a2d_image.png)
 
-I then had to re route the pcb after swapping out the footprint.
+I then had to re route part of the pcb after swapping out the footprint and then did a check over the whole thing. I added some silkscreen logo and text (to show which side to solder/place components on). This is (for real this time) the final version of the pcb:
 
+![final pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1dd45abbf7d6a2fb383067e146184031592296e5_image.png)
 
+![final pcb - 3d](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70fc7cd0275b103593fbe5870d51b5b68e58c733_image.png)
 
-I also worked on the firmware and finished the keyboard.json and added the indicators for which layer you are in.
+**Total time spent: 6hr**

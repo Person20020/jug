@@ -499,7 +499,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "prod-manual/",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "jug.step",

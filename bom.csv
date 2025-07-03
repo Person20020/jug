@@ -1,16 +1,20 @@
-Part, LCSC Part #, Quantity, Price (per unit) ($), Price (total) ($), Link
-RP2040 Pro Micro, n/a, 2, ~3.00, ~6.00, https://www.aliexpress.us/item/3256806413474305.html
-MX Switches, n/a, 46, ~0.50, ~23.00, 
-Hotswap Sockets, n/a, 46 (70 pcs for $6.15), ~0.088, ~6.15, https://www.aliexpress.us/item/3256806866334888.html
-1n4148 Diodes, C84410,46, 0.0149, 0.745, 
-USB-A Port, C720525,2, 0.1208, 0.604, 
-USB-A to A Cable 1m, n/a, 1, ~1.00, ~1.75,https://www.aliexpress.us/item/3256805752891531.html
-1206 LEDs,n/a,4 (2 blue + 2 red),~0.0145,1.45,https://www.aliexpress.us/item/3256807290738287.html
-,,,,,
-,,,,,
-Hardware,,,,,
-8mm m2 standoffs,,14,,,
-m2 x 6mm screws,,28,,,
-m3 x ???mm screws,,,,,
-m3 heat set inserts,,,,,
-,,,,,
+Part, LCSC Part #, Quantity, Price (per unit) ($), Price (total) ($), Link, Note
+RP2040 Zero, C5350143, 2, 5.1365, 10.27, https://lcsc.com/product-detail/Development-Boards-Kits_Waveshare-RP2040-Zero_C5350143.html?s_z=n_rp2040%2520zero,
+MX Switches, n/a, 46, ~0.50, ~23.00, link,Already have
+Hotswap Sockets, n/a, 46 (70 pcs for $6.15), ~0.088, ~6.15, https://www.aliexpress.us/item/3256806866334888.html,Already have
+1n4148 Diodes, C84410,46, 0.0149, 0.745, ,Already have
+USB-A Port, C720525,2 (but 5 min order),0.1399,0.70, ,
+USB-A to A Cable 1m, n/a, 1, ~1.00, ~1.75,https://www.aliexpress.us/item/3256805752891531.html,Already have
+1206 LEDs,,,,,,
+Red,C965799,2 (but 100 min order),0.0032,0.32,https://lcsc.com/product-detail/image/XL-1608SURC-06_C965799.html,
+Blue,C965827,2 (but 100 min order),0.0084,0.42,https://lcsc.com/product-detail/image/XL-3216UBC_C965827.html,
+1206 35.7 ohm resistor,C488810,4 (but 100 min order),0.0018,0.18,https://lcsc.com/product-detail/image/RC1206FR-0735R7L_C488810.html,
+,,,,,,
+,,,,,,
+Hardware----,,,,,,
+8mm m2 standoffs,,14,,,,Already have
+m2 x 6mm screws,,28,,,,Already have
+m3 x ???mm screws,,,,,,
+m3 heat set inserts,,,,,,
+,,,,,,
+Total purchased price,,,,~11.89+hardware,,

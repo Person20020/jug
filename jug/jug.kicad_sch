@@ -3314,6 +3314,28 @@
 			)
 		)
 	)
+	(global_label "LED1"
+		(shape input)
+		(at 172.72 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "17994fdf-9352-4bdf-9361-4f0d8b704c14")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.0782 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ROW0L"
 		(shape input)
 		(at 86.36 36.83 0)
@@ -3354,28 +3376,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED1"
-		(shape input)
-		(at 135.89 93.98 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2673105d-4a1b-4162-a813-a7a2116f426e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.2482 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -3442,28 +3442,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED0"
-		(shape input)
-		(at 172.72 82.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "38ea8f29-fa06-4ce7-b456-217fc5d545ac")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.0782 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -3547,6 +3525,28 @@
 		(uuid "46e9bf2b-cb47-40a9-98d5-c1d57d0c3e59")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 111.7382 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED0"
+		(shape input)
+		(at 135.89 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4cec7e17-a8c1-4970-953d-5e31e41c774c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.2482 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
