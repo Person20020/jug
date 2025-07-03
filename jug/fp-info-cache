@@ -1,4 +1,4 @@
-27335559424969733
+27337310963129051
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96488,6 +96488,13 @@ usb usb-c 2.0 pd
 20
 17
 ScottoKeebs_Components
+USB_C_Receptacle_G-Switch_GT-USB-7010ASV_Double-Sided
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
+USB C Type-C Receptacle SMD
+0
+36
+17
+ScottoKeebs_Components
 Voltage_SOT-23
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
@@ -99082,8 +99089,8 @@ RP2040_Zero_Reversible
 
 
 0
-109
-37
+216
+36
 ScottoKeebs_MCU
 Raspberry_Pi_Pico
 
