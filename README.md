@@ -11,6 +11,8 @@ The PCB supports both hotswap sockets and directly soldering the switches. It is
 All components are placed so that the case sides are exact mirrors.
 
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/060a25b877864548f696b6b857fbd78fa6695b34_jug-pcb-for-render_v1_2025-jul-07_02-14-08am-000_customizedview13108977982.png)
+![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7e51c1129ae840b9626f04786beea81ee03fceef_image.png)
+![routing](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e317385385acf5c65a0750020bb4ffa397627bee_image.png)
 
 ## Parts
 
