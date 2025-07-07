@@ -3,6 +3,7 @@ title: "Jug"
 author: "Person20020"
 description: "A 6x3 column staggard split keyboard with a large thumb cluster."
 created_at: "2025-05-20"
+total_time_spent: 50
 ---
 
 # Jug -- Split Keyboard
@@ -123,3 +124,45 @@ I then had to re route part of the pcb after swapping out the footprint and then
 ![final pcb - 3d](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70fc7cd0275b103593fbe5870d51b5b68e58c733_image.png)
 
 **Total time spent: 6hr**
+
+# July 3: Switched interconnect to USB C and worked on case
+
+I decided that I would switch to use USB C for the interconnect because USB A-A cables aren't as common. They can be found on Amazon but basically everyone will have a USB C-C cable.
+
+![finished pcb for real this time](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db4e799aebe5eecb7cd381638619a42a12807f1d_image.png)
+
+![finished pcb - 3d](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c94cec9bc2f9062e826860ca7abcefbc53cf1156_image.png)
+
+I worked on the case and finished almost the entire thing.
+
+I forgot to get any pictures of the case.
+
+**Total time spent: 5hr**
+
+# July 4: Finished the case + QMK firmware
+
+I finished working on the case. Because the pcb is reversible with the components staying in the exact same position, the right side will just be a mirror version of the case. 
+
+![case render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eb3f01ef514535af3f6a53b21dcda8743f94412f_jug_case_2025-jul-04_06-37-14am-000_customizedview29367406515.png)
+
+I added a recess in the plate above the indicator leds that should make them brighter in just that area and hopefully it will look nicer.
+
+![led indicator cutout](https://hc-cdn.hel1.your-objectstorage.com/s/v3/affb1157c8fcc575e8fb04b6d07ae1e20376d9b9_pxl_20250705_200535124.jpg)
+
+I also worked on my base QMK firmware and was able to compile the basic version that doesn't have combos or extra features. 
+
+**Total time spent: 5hr**
+
+# July 5: Worked on Vial firmware
+
+I finished the Vial firmware and was able to flash it on another RP2040 board that I have and was able to short the pins to print out the keys on the left half. I also got vial itself working. I struggled a bunch because apparently the ordering of the matrix definitions really matters so all of the keys were mixed up. 
+
+![Vial](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3f24ea17f5462d46e8193b52713e397dbb57dab6_image.png)
+
+**Total time spent: 4hr**
+
+# July 6: Worked on README and full parts list
+
+Added all info to README and finished selecting parts.
+
+**Total time spent: 4hr**

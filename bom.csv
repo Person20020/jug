@@ -1,20 +1,30 @@
 Part, LCSC Part #, Quantity, Price (per unit) ($), Price (total) ($), Link, Note
-RP2040 Zero, C5350143, 2, 5.1365, 10.27, https://lcsc.com/product-detail/Development-Boards-Kits_Waveshare-RP2040-Zero_C5350143.html?s_z=n_rp2040%2520zero,
-MX Switches, n/a, 46, ~0.50, ~23.00, link,Already have
-Hotswap Sockets, n/a, 46 (70 pcs for $6.15), ~0.088, ~6.15, https://www.aliexpress.us/item/3256806866334888.html,Already have
+RP2040 Zero, C5350143, 2, 5.1365, 10.27,https://lcsc.com/product-detail/Development-Boards-Kits_Waveshare-RP2040-Zero_C5350143.html,
+MX Switches,, 46 (45 per pkg = 2 pkgs),0.311,27.98 (13.99/pkg),https://www.amazon.com/Akko-Keyboard-Mechanical-Switches-Pre-Lubed/dp/B0D3D29G3T/,
+Hotswap Sockets,, 46 (70 pcs for $6.15), ~0.088, ~6.15, https://www.aliexpress.us/item/3256806866334888.html,Already have
 1n4148 Diodes, C84410,46, 0.0149, 0.745, ,Already have
-USB-A Port, C720525,2 (but 5 min order),0.1399,0.70, ,
-USB-A to A Cable 1m, n/a, 1, ~1.00, ~1.75,https://www.aliexpress.us/item/3256805752891531.html,Already have
-1206 LEDs,,,,,,
-Red,C965799,2 (but 100 min order),0.0032,0.32,https://lcsc.com/product-detail/image/XL-1608SURC-06_C965799.html,
-Blue,C965827,2 (but 100 min order),0.0084,0.42,https://lcsc.com/product-detail/image/XL-3216UBC_C965827.html,
-1206 35.7 ohm resistor,C488810,4 (but 100 min order),0.0018,0.18,https://lcsc.com/product-detail/image/RC1206FR-0735R7L_C488810.html,
+USB-C ports, C720525,2 (5 min order),0.1399,0.70,https://lcsc.com/product-detail/USB-Connectors_G-Switch-GT-USB-7010ASV_C2988369.html,
+1206 LEDs---,,,,,,
+Red,C965799,2 (100 min order),0.0032,0.32,https://lcsc.com/product-detail/image/XL-1608SURC-06_C965799.html,
+Blue,C965827,2 (100 min order),0.0084,0.42,https://lcsc.com/product-detail/image/XL-3216UBC_C965827.html,
+1206 35.7 ohm resistors,C488810,4 (100 min order),0.0018,0.18,https://lcsc.com/product-detail/image/RC1206FR-0735R7L_C488810.html,
+1206 5.1k ohm resistors,C2907509,2 (100 min order),0.0022,0.22,https://lcsc.com/product-detail/image/FRC1206J512-TS_C2907509.html,
 ,,,,,,
-,,,,,,
-Hardware----,,,,,,
+Hardware----,All screws are hex  socket head,,,,,
 8mm m2 standoffs,,14,,,,Already have
-m2 x 6mm screws,,28,,,,Already have
-m3 x ???mm screws,,,,,,
-m3 heat set inserts,,(100 per package),,,https://www.amazon.com/ShineNow-Threaded-Heat-Set-Inserts-Printed/dp/B0C5CHQDFF/,
+m2 x 4mm screws,,28,,,,Already have
+m2 x 12mm screws,,4,,,,Already have
+m3 x 12mm screws,,12,,,,Already have
+m3 heat set inserts,,12 (50 per pkg),0.5408,6.49,https://www.amazon.com/uxcell-Threaded-Inserts-Knurled-Printing/dp/B0DC41PRRC/,
 ,,,,,,
-Total purchased price,,,,~11.89+hardware,,
+Other----,,,,,,
+1u Keycaps,,42 (24 per pkg = 2 pkgs),0.3746,17.98 (8.99 per pkg),https://www.amazon.com/Mechkeeb-Profile-Switches-Keyboard-Replacement/dp/B0BWDQ3NKK/,
+1.5u Keycaps,,4 (10 per pkg),0.772,7.72,https://www.amazon.com/JAGTRADE-Keycaps-Profile-Mechanical-Keyboard/dp/B0CS5VCVJ4/,
+Flux syringe (for soldering smd usb),,1,9.99,9.99,https://www.amazon.com/gp/product/B0D2DFKC5N/,
+,,,,,,
+PCB,,5,,11.70+16.36shipping+fees=29.84,,
+,,,,,,
+,,lcsc shipping  17.13,,,,
+,amazon 64.05,lcsc 31.99,jlcpcb 29.84,,,
+Total purchased price,$125.88,,,,,
+Total,$132.78,,,,,
