@@ -2,6 +2,8 @@
 
 A 6x3 column staggered split keyboard with a large thumb cluster.
 
+![picture](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e3614a3b6a1b1744612c7d60f0511643e53c0c7f_pxl_20250727_031849672_3.jpg)
+
 ![jug render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eb3f01ef514535af3f6a53b21dcda8743f94412f_jug_case_2025-jul-04_06-37-14am-000_customizedview29367406515.png)
 
 The jug is a 6x3 column staggered split keyboard with 46 keys. It has a 5 key thumb cluster extending out to reduce reaching back with your thumb. It uses USB C for interconnect and includes two indicator leds per side for caps/num lock and layer (eg. Colemak vs QWERTY).
