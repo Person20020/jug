@@ -1,3 +1,5 @@
+<img width="100%" alt="Jug Logo wide no fill" src="https://github.com/user-attachments/assets/d46b12e5-16b6-4395-81ab-9a57c222ad11" />
+
 # Jug
 
 A 6x3 column staggered split keyboard with a large thumb cluster.
