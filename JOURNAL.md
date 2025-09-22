@@ -166,3 +166,33 @@ I finished the Vial firmware and was able to flash it on another RP2040 board th
 Added all info to README and finished selecting parts.
 
 **Total time spent: 4hr**
+
+# July 23: Stuff arrived and started soldering.
+
+All of my stuff arrived (other than a few keycaps which I can print myself). I started soldering the keyboard and finished one half. Everything seems to work quite well.
+
+![soldered pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c7ef62f2a27a77073c435b28974570b9336dbb8a_img_20250724_073807.jpg)
+
+I accidentally ordered 0603 red leds instead of 1206 so they are the wrong size for the footprint but I was still able to solder it in place with a big glob of solder.
+
+![0603 led](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9f774a83f374507b0cc8005abdafce615fd14c1_img_20250723_210526.jpg)
+
+**Total time spent: 3hr**
+
+# July 24: Soldered second half
+
+Today I soldered the second half of the pcb. The reversible footprints all worked perfectly but after connecting the halves the second side wouldn't do anything. By itself it is able to type when directly connected to the computer but the USB C interconnect doesn't work. I tested with a multimeter and it seems like there is power on the second half and there is a connection between the two interconnect pins (between the halves) but it seems like there is some resistance on the interconnect line because I chose to use D+ which I think has some kind of active filtering or something?
+
+**Total time spent: 4hr**
+
+# July 25: Fixed interconnect
+
+I did some testing and managed to get the halves to connect. I used a alligator clip jumper wire to connect the interconnect pins and the keyboard worked. For a few seconds it also worked over just USB C but it stopped working and that hasn't happened again. 
+
+![temporary fix](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8d2c6769e82767f701e2a9a2d07b9779c5c2fcf0_img_20250724_230414.jpg)
+
+I then melted a hole in the side of the case and soldered some wire on to each interconnect pin and brought the wire out the side. I crimped DuPont connectors on to each one so that I can change the length of the wire in the middle if I want.
+
+![finished keyboard](https://camo.githubusercontent.com/adc1dc5441e56803717a15bf560f1b3995e1bb961969f46ef6e6531a49be25a7/68747470733a2f2f68632d63646e2e68656c312e796f75722d6f626a65637473746f726167652e636f6d2f732f76332f653336313461336236613162313734343631326337643630663035313136343365353363306337665f70786c5f32303235303732375f3033313834393637325f332e6a7067)
+
+**Total time spent: 2hr**
