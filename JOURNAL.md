@@ -1,8 +1,10 @@
 ---
+show_on_site: True
 title: "Jug"
 author: "Person20020"
 description: "A 6x3 column staggard split keyboard with a large thumb cluster."
 created_at: "2025-05-20"
+start_date: "2025-05-20"
 total_time_spent: 50
 ---
 
