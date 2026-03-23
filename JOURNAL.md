@@ -6,6 +6,8 @@ description: "A 6x3 column staggard split keyboard with a large thumb cluster."
 created_at: "2025-05-20"
 start_date: "2025-05-20"
 total_time_spent: 50
+image_url: "https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/e3614a3b6a1b1744612c7d60f0511643e53c0c7f_pxl_20250727_031849672_3.jpg"
+image_url_alt: "The fully assembled keyboard"
 ---
 
 # Jug -- Split Keyboard
