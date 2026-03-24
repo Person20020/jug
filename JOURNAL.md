@@ -95,7 +95,7 @@ There were some errors on the mcu footprint but I think that it is just because 
 
 I had forgotten that I wouldn't be able to reverse the USB A connector for the interconnect so I spent a while fixing that. I used the same method with solder jumpers as for the mcu and it was really confusing. As I understand it this should work to make rotating the connector (flipping the side of the board it is on) work.
 
-![reversible usb schematic](https://hackclub.slack.com/archives/C016DEDUL87/p1751254254578749?thread_ts=1751254251.071539&cid=C016DEDUL87)
+![reversible usb schematic](https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/273ab99af2905872b237325ba29ea60ba2269d99_image.png)
 
 After figuring out that I also added holes for standoffs to pass through to support the plate.
 
